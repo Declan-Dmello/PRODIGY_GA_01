@@ -26,4 +26,5 @@ Input:
 "The Gregorian Tower (Italian: Torre Gregoriana) or Tower of the Winds (Italian: Torre dei Venti) is a round tower located..."
 
 Generated Output:
-(Model-generated continuation here)
+"The Gregorian Tower (Italian: Torre Gregoriana) or Tower of the Winds (Italian: Torre dei Venti) is a round tower located in the vicinity of Vatican City. It was first built by Pope Gregory XIII in 1549 and was later extended to the Tower Building on the Vatican Gardens."
+
